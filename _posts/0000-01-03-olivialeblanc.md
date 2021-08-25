@@ -1,8 +1,8 @@
 #Hi this is slide 3!!!
 
 - [x] first
-- [] second
-- [] third
+- [ ] second
+- [ ] third
 
 i think we could change those lines of code to
 ```python
